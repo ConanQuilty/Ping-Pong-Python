@@ -7,6 +7,9 @@ Beginner-friendly and ideal for learning how 2D games work internally.
 
 ---
 
+<img width="1052" height="695" alt="Screenshot 2025-11-18 at 00 03 05" src="https://github.com/user-attachments/assets/598ee4c3-c18b-4a23-be92-c138b730aec4" />
+
+
 ## Features
 
 ###  Gameplay
